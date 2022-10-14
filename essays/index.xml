@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Essays on @mdaudsheikh</title>
-    <link>https://www.mdaudsheikh.github.io/essays/</link>
+    <link>https://mdaudsheikh.github.io/essays/</link>
     <description>Recent content in Essays on @mdaudsheikh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Oct 2022 21:46:57 -0600</lastBuildDate><atom:link href="https://www.mdaudsheikh.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 21:46:57 -0600</lastBuildDate><atom:link href="https://mdaudsheikh.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Counting</title>
-      <link>https://www.mdaudsheikh.github.io/essays/counting/</link>
+      <link>https://mdaudsheikh.github.io/essays/counting/</link>
       <pubDate>Thu, 13 Oct 2022 21:46:57 -0600</pubDate>
       
-      <guid>https://www.mdaudsheikh.github.io/essays/counting/</guid>
+      <guid>https://mdaudsheikh.github.io/essays/counting/</guid>
       <description>this is counting</description>
       <content:encoded><![CDATA[<p>this is counting</p>
 ]]></content:encoded>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>@mdaudsheikh</title>
-    <link>https://www.mdaudsheikh.github.io/</link>
+    <link>https://mdaudsheikh.github.io/</link>
     <description>Recent content on @mdaudsheikh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Oct 2022 21:46:57 -0600</lastBuildDate><atom:link href="https://www.mdaudsheikh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 21:46:57 -0600</lastBuildDate><atom:link href="https://mdaudsheikh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://www.mdaudsheikh.github.io/blog/my-first-post/</link>
+      <link>https://mdaudsheikh.github.io/blog/my-first-post/</link>
       <pubDate>Thu, 13 Oct 2022 21:39:57 -0600</pubDate>
       
-      <guid>https://www.mdaudsheikh.github.io/blog/my-first-post/</guid>
+      <guid>https://mdaudsheikh.github.io/blog/my-first-post/</guid>
       <description>hello</description>
       <content:encoded><![CDATA[<p>hello</p>
 ]]></content:encoded>
@@ -19,10 +19,10 @@
     
     <item>
       <title>My Second Post</title>
-      <link>https://www.mdaudsheikh.github.io/blog/my_second_post/</link>
+      <link>https://mdaudsheikh.github.io/blog/my_second_post/</link>
       <pubDate>Thu, 13 Oct 2022 21:39:57 -0600</pubDate>
       
-      <guid>https://www.mdaudsheikh.github.io/blog/my_second_post/</guid>
+      <guid>https://mdaudsheikh.github.io/blog/my_second_post/</guid>
       <description>whyyyyy</description>
       <content:encoded><![CDATA[<p>whyyyyy</p>
 ]]></content:encoded>
