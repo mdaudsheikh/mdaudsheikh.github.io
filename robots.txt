@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://mdaudsheikh.github.io/sitemap.xml
+Sitemap: https://www.mdaudsheikh.github.io/sitemap.xml
